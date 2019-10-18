@@ -1,0 +1,9 @@
+body {
+    background-color: lightseagreen;
+    font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+.game {
+    position: relative;
+    text-align: center;
+}
