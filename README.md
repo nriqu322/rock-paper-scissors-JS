@@ -32,7 +32,7 @@ This is a Javascript project that emulates the game against the computer
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check this link --> [here](https://github.com/nriqu322/rock-paper-scissors-JS/issues) for issues.
+Feel free to check [here](https://github.com/nriqu322/rock-paper-scissors-JS/issues) for issues.
 
 ## Show your support
 
