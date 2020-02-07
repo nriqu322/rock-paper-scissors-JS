@@ -1,4 +1,3 @@
-[![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)](https://linkedin.com/in/luis-saavedra-sanchez/)
 
 # Rock Paper Scissors Game
 This is a Javascript project that emulates the game against the computer
@@ -21,7 +20,7 @@ This is a Javascript project that emulates the game against the computer
 * Functions on javascript
 * Conditional statements if/else.
 
-## Author
+## Author [![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)](https://linkedin.com/in/luis-saavedra-sanchez/)
 
 👤 **Luis Saavedra**
 
